@@ -1,2 +1,2 @@
-# Nucleus_CSS3
-Proyecto realizado con HTML5, CSS3 y BEM
+# Nucleus
+Proyecto realizado con HTML5 y CSS3 (BEM).
